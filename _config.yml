@@ -1,15 +1,15 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Nepal Forward Together
+description:      Pushing education forward in Nepal
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://nepalforward.github.io
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Sanjay Suwal
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          sanjaysuwal1@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       
@@ -42,7 +42,7 @@ links:
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Kathmandu
 future:      true
 pygments:    true
 markdown:    kramdown

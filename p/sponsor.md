@@ -15,6 +15,6 @@ See [Where is Going Your Money](/p/faq.html#money). Transactions are performed v
 - Donate <a class="btn" href="">20€ </a>
   <a class="btn" href="">50€ </a>
   <a class="btn" href="">150€ </a>
-- or donate a <a class="btn" href="">custom ammount </a>
+- or donate a [Custom Ammount](#)
 
 

@@ -3,13 +3,13 @@ description:      Pushing education forward in Nepal
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://nepalforward.github.io
+url:              http://nepalforward.github.io
 
 # Owner/author information
 owner:
   name:           Nepal Forward Together
   avatar:         sanjay.jpg
-  email:          sanjaysuwal1@gmail.com
+  email:          
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
   facebook:       

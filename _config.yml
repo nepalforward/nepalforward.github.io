@@ -3,12 +3,12 @@ description:      Pushing education forward in Nepal
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              http://nepalforward.github.io
+#url:              http://nepalforward.github.io
 
 # Owner/author information
 owner:
-  name:           Sanjay Suwal
-  avatar:         bio-photo.jpg
+  name:           Nepal Forward Together
+  avatar:         sanjay.jpg
   email:          sanjaysuwal1@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
@@ -31,15 +31,20 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about
-  - title: Articles
-    url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Sponsor a child
+    url: /p/sponsor.html
+  - title: What We Do
+    url: /p/about.html
+  - title: Our Schools and Children
+    url: /p/schools-children.html
+  - title: Visiting Us in Bhaktappur, Nepal
+    url: /p/visiting.html
+  - title: FAQ
+    url: /p/faq.html
+  - title: Volunteering With Us
+    url: /p/volunteering.html
+  - title: Contacts
+    url: /p/contacts.html
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Kathmandu

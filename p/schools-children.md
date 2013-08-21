@@ -14,6 +14,4 @@ image:
 - Paragon English Secondary School 2
 - Creative English School 1
 - Suryadya English School 2
-- Pierre es lindo! 
-
 
